@@ -1,2 +1,6 @@
 __pycache__/
+.pycache/
 suno_bark.egg-info/
+.venv/
+.cache/
+outputs/

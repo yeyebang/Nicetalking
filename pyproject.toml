@@ -7,11 +7,11 @@ name = "suno-bark"
 version = "0.0.1a"
 description = "Bark text to audio model"
 readme = "README.md"
-requires-python = ">=3.8"
+requires-python = ">=3.9"
 authors =  [
     {name = "Suno Inc", email = "hello@suno.ai"},
 ]
-# Apache 2.0
+# MIT
 license = {file = "LICENSE"}
 
 dependencies = [
@@ -46,6 +46,9 @@ dev = [
     "pylint",
     "pytest",
     "pytest-cov",
+]
+gui = [
+    "gradio>=4.0",
 ]
 
 [tool.setuptools]

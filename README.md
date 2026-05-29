@@ -1,5 +1,7 @@
 # 🎙️ Nicetalking · Vioce GUI for Bark
 
+**🌐 Language:** [English](README.en.md) · **中文**
+
 > 本仓库基于 [Suno AI Bark](https://github.com/suno-ai/bark) 项目二次开发。
 > GUI 与产品体验署名：**awake**。Bark 模型与原始推理代码的版权与许可仍归原作者所有（MIT）。
 
@@ -84,7 +86,7 @@ python -m bark --text "Hello, my name is Suno." --output_filename "example.wav"
 
 ---
 
-## ⚠️ Disclaimer
+## ⚠️ 免责声明
 
 Bark 是研究用的生成式 text-to-audio 模型，输出可能与提示文本存在偏离。请合规、合理使用，不要用于伪造他人声音或任何违法用途。Suno 及本 GUI 二次开发者均不对生成内容承担责任。
 
